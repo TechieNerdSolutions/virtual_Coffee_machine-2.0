@@ -1,5 +1,5 @@
 # virtual_Coffee_machine-2.0
-![image](/images/coffee.png)
+![image](https://github.com/Rachamv/virtual_Coffee_machine-2.0/blob/main/image/coffee.png)
 
 ## In this version we are using OOP method to add new features 
 this version is propose for organisation that have remote workers and want to provide them with virtual coffee machine.
